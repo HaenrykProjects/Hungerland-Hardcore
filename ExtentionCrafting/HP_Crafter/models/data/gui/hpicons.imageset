@@ -1,0 +1,464 @@
+ImageSetClass {
+ Name "hpicons"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{5C222373DE796547}HP_Crafter/data/gui/hpicons.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass HP_Anvil {
+   Name "HP_Anvil"
+   Pos 0 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Woodaxe {
+   Name "HP_Woodaxe"
+   Pos 170 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Drill {
+   Name "HP_Drill"
+   Pos 340 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Grinder {
+   Name "HP_Grinder"
+   Pos 510 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_File {
+   Name "HP_File"
+   Pos 680 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pickaxe {
+   Name "HP_Pickaxe"
+   Pos 850 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Banka {
+   Name "HP_Banka"
+   Pos 1020 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_SHammer {
+   Name "HP_SHammer"
+   Pos 1190 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Aid {
+   Name "HP_Aid"
+   Pos 1360 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Girl {
+   Name "HP_Girl"
+   Pos 1530 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Wrench {
+   Name "HP_Wrench"
+   Pos 1700 0
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Balonnik {
+   Name "HP_Balonnik"
+   Pos 1863 4
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Binoculars {
+   Name "HP_Binoculars"
+   Pos 0 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_GAS {
+   Name "HP_GAS"
+   Pos 170 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Gondon {
+   Name "HP_Gondon"
+   Pos 340 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Grivna {
+   Name "HP_Grivna"
+   Pos 510 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Gold {
+   Name "HP_Gold"
+   Pos 680 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_EAT {
+   Name "HP_EAT"
+   Pos 850 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Canistra {
+   Name "HP_Canistra"
+   Pos 1020 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Stone {
+   Name "HP_Stone"
+   Pos 1190 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Book {
+   Name "HP_Book"
+   Pos 1360 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Picture {
+   Name "HP_Picture"
+   Pos 1530 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pot {
+   Name "HP_Pot"
+   Pos 1700 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Case {
+   Name "HP_Pot"
+   Pos 1870 170
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Sardina {
+   Name "HP_Sardina"
+   Pos 0 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Wallet {
+   Name "HP_Wallet"
+   Pos 170 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_MedBottle {
+   Name "HP_MedBottle"
+   Pos 340 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Ladder {
+   Name "HP_Ladder"
+   Pos 510 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Crowbar {
+   Name "HP_Crowbar"
+   Pos 680 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Shovel {
+   Name "HP_Shovel"
+   Pos 850 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Ghilie {
+   Name "HP_Ghilie"
+   Pos 1020 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_HGhilie {
+   Name "HP_HGhilie"
+   Pos 1190 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Oiler {
+   Name "HP_Oiler"
+   Pos 1360 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Sword {
+   Name "HP_Sword"
+   Pos 1530 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Microscope {
+   Name "HP_Microscope"
+   Pos 1700 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Hammer {
+   Name "HP_Hammer"
+   Pos 1870 340
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Meat {
+   Name "HP_Meat"
+   Pos 0 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_MGrinder {
+   Name "HP_MGrinder"
+   Pos 170 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Scissors {
+   Name "HP_Scissors"
+   Pos 340 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Magazin {
+   Name "HP_Magazin"
+   Pos 510 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Screwdriver {
+   Name "HP_Screwdriver"
+   Pos 680 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_MKey {
+   Name "HP_MKey"
+   Pos 850 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Parachute {
+   Name "HP_Parachute"
+   Pos 1020 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pliers {
+   Name "HP_Pliers"
+   Pos 1190 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Ammo {
+   Name "HP_Ammo"
+   Pos 1360 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_HandSaw {
+   Name "HP_HandSaw"
+   Pos 1530 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pouch {
+   Name "HP_Pouch"
+   Pos 1700 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pouch1 {
+   Name "HP_Pouch1"
+   Pos 0 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pouch1 {
+   Name "HP_Pouch1"
+   Pos 1870 510
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_FAxe {
+   Name "HP_FAxe"
+   Pos 170 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_HSaw {
+   Name "HP_HSaw"
+   Pos 340 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_GasMask {
+   Name "HP_GasMask"
+   Pos 510 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Fish {
+   Name "HP_Fish"
+   Pos 680 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_FHoe {
+   Name "HP_FHoe"
+   Pos 850 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Tape {
+   Name "HP_Tape"
+   Pos 1020 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_SleepBag {
+   Name "HP_SleepBag"
+   Pos 1190 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Matches {
+   Name "HP_Matches"
+   Pos 1360 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Paint {
+   Name "HP_Paint"
+   Pos 1530 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Spray {
+   Name "HP_Spray"
+   Pos 1700 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_SeaChest {
+   Name "HP_SeaChest"
+   Pos 1870 680
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Vise {
+   Name "HP_Vise"
+   Pos 0 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Hatchet {
+   Name "HP_Hatchet"
+   Pos 170 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pipe {
+   Name "HP_Pipe"
+   Pos 340 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_pipewrench {
+   Name "HP_pipewrench"
+   Pos 510 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_FishRod {
+   Name "HP_FishRod"
+   Pos 680 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Torch {
+   Name "HP_Torch"
+   Pos 850 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_GMeat {
+   Name "HP_GMeat"
+   Pos 1020 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_SalineBag {
+   Name "HP_SalineBag"
+   Pos 1190 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Clock {
+   Name "HP_Clock"
+   Pos 1360 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_SewingKit {
+   Name "HP_SewingKit"
+   Pos 1530 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Chevron {
+   Name "HP_Chevron"
+   Pos 1700 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Pelt {
+   Name "HP_Pelt"
+   Pos 1870 850
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Syringe {
+   Name "HP_Syringe"
+   Pos 0 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_AmmoBox {
+   Name "HP_AmmoBox"
+   Pos 170 1020
+   Size 170 170
+   Flags 0
+  }
+  ImageSetDefClass HP_Payalnik {
+   Name "HP_Payalnik"
+   Pos 340 1020
+   Size 170 170
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}

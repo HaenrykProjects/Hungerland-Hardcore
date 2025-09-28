@@ -1,4 +1,4 @@
-# 🌌 Hungerland Hardcore
+# 🌌 Hungerland Hardcore / DayZ
 *My most important project at the moment.*
 
 ---

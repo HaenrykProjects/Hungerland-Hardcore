@@ -1,31 +1,32 @@
 # 🌌 Hungerland Hardcore
-*Mein derzeit wichtigstes Projekt.*
+*My most important project at the moment.*
 
 ---
 
 ## 📖 Storyline
 
-Die Welt von **Hungerland** ist zerfallen.  
-Gestrandet auf einer abgelegenen **Inselkette** weiß niemand, warum er hier ist – nur eins ist sicher:  
-👉 **Überleben ist alles.**
+The world of **Hungerland** has collapsed.  
+Stranded on a remote **archipelago**, no one knows why they are here – only one thing is certain:  
+👉 **Survival is everything.**
 
 ![Start in Hungerland Hardcore](Pictures/Spawn_State.png)
 
-Der Anfang ist gnadenlos: ohne Erfahrung, ohne Ressourcen, ohne Verbündete.  
-Doch je tiefer man die **vielschichtige Welt** erkundet, desto mehr Wege öffnen sich:  
-- geheime Orte entdecken,  
-- Fähigkeiten meistern,  
-- Bosse bezwingen,  
-- Allianzen schmieden.  
+The beginning is merciless: no experience, no resources, no allies.  
+But the deeper you explore this **multi-layered world**, the more paths open up:  
+- discover hidden locations,  
+- master unique skills,  
+- defeat bosses,  
+- forge alliances.  
 
-Am Ende entscheidet nur deine Taktik, ob du **überlebst oder untergehst**.
+In the end, only your strategy decides whether you **survive or perish**.
 
 ![Hungerland_Progress](Pictures/Hungerland_Hardcore_StartShowcase.png)
+
 ---
 
-## ✨ Besonderheiten / USP
-- 🩸 **Hardcore Survival** – kein Platz für Fehler  
+## ✨ Key Features / USP
+- 🩸 **Hardcore Survival** – no room for mistakes  
 - 👹 **Unique Bosses** – Kovac, Rovik & Dr. Skorn  
-- 📈 **Skill-System** – Fortschritt mit Risiko  
-- 📦 **Dynamic Loot** – realistische, variable Spawnpunkte  
-- 🔥 **Weekend PvP & Raids** – geplante Action-Events
+- 📈 **Skill System** – progress at your own risk  
+- 📦 **Dynamic Loot** – realistic, variable spawn points  
+- 🔥 **Weekend PvP & Raids** – scheduled action events

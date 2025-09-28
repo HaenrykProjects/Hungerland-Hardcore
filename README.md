@@ -1,4 +1,4 @@
-# 🌌 Hungerland Hardcore / DayZ
+# 🌌 Hungerland Hardcore / DayZ Server
 *My most important project at the moment.*
 
 ---

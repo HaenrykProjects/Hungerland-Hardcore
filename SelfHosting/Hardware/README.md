@@ -1,7 +1,5 @@
 # 🖥️ Server Hardware
 
-![Server Hardware](../../Pictures/Server_Hardware.jpeg)
-
 ## Main Server (Lenovo IdeaCentre)
 - **CPU:** Intel Core i5-12400T (12th Gen, 1.8 GHz, stromsparend)  
 - **RAM:** 64 GB DDR4  
